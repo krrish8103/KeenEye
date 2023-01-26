@@ -1,0 +1,17 @@
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\bin\Debug\net6.0\KeenEye.Infrastructure.deps.json
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\bin\Debug\net6.0\KeenEye.Infrastructure.runtimeconfig.json
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\bin\Debug\net6.0\KeenEye.Infrastructure.dll
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\bin\Debug\net6.0\KeenEye.Infrastructure.pdb
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\bin\Debug\net6.0\KeenEye.Core.dll
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\bin\Debug\net6.0\KeenEye.Core.pdb
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\KeenEye.Infrastructure.csproj.AssemblyReference.cache
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\KeenEye.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\KeenEye.Infrastructure.AssemblyInfoInputs.cache
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\KeenEye.Infrastructure.AssemblyInfo.cs
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\KeenEye.Infrastructure.csproj.CoreCompileInputs.cache
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\KeenEye.Infrastructure.csproj.CopyComplete
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\KeenEye.Infrastructure.dll
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\refint\KeenEye.Infrastructure.dll
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\KeenEye.Infrastructure.pdb
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\KeenEye.Infrastructure.genruntimeconfig.cache
+D:\KeenEyeDemo\KeenEye\KeenEye.Infrastructure\obj\Debug\net6.0\ref\KeenEye.Infrastructure.dll

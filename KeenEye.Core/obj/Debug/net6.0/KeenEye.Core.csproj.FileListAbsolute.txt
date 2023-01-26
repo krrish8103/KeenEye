@@ -1,0 +1,12 @@
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\bin\Debug\net6.0\KeenEye.Core.deps.json
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\bin\Debug\net6.0\KeenEye.Core.dll
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\bin\Debug\net6.0\KeenEye.Core.pdb
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\obj\Debug\net6.0\KeenEye.Core.csproj.AssemblyReference.cache
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\obj\Debug\net6.0\KeenEye.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\obj\Debug\net6.0\KeenEye.Core.AssemblyInfoInputs.cache
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\obj\Debug\net6.0\KeenEye.Core.AssemblyInfo.cs
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\obj\Debug\net6.0\KeenEye.Core.csproj.CoreCompileInputs.cache
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\obj\Debug\net6.0\KeenEye.Core.dll
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\obj\Debug\net6.0\refint\KeenEye.Core.dll
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\obj\Debug\net6.0\KeenEye.Core.pdb
+D:\KeenEyeDemo\KeenEye\KeenEye.Core\obj\Debug\net6.0\ref\KeenEye.Core.dll
